@@ -403,6 +403,8 @@ The application has been tested for:
 * Incognito browser sessions
 
 ---
+##logo 
+![HackMetrics Logo](/public/logo.png.png)
 
 ## 📸 Screenshots
 
@@ -425,15 +427,7 @@ The application has been tested for:
 **Live Application:**
 
 ```text
-YOUR_VERCEL_URL
-```
-
-Example:
-
-```text
-https://hackmetrics.vercel.app
-```
-
+https://hack-metrics.vercel.app/
 ---
 
 ## 🎯 Problem Statement
